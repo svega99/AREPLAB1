@@ -101,6 +101,10 @@ Para correr los tests:
 
 El programa usa dos clases de test. ```LinkedListTest``` prueba el funcionamiento de la LinkedList y ```CalculatorTest``` prueba que la media y la desviación estandar se calculen de la forma adecuada.
 
+## Diseño
+
+[DISEÑO.PDF](DISEÑO.PDF)
+
 ## Authors
 
 * **Santiago Vega Romero**  - [svega99](https://github.com/svega99)
