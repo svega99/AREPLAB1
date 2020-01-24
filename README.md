@@ -103,7 +103,7 @@ El programa usa dos clases de test. ```LinkedListTest``` prueba el funcionamient
 
 ## Diseño
 
-[DISEÑO.PDF](DISEÑO.PDF)
+[DISEÑO.pdf](DISEÑO.pdf)
 
 ## Authors
 
